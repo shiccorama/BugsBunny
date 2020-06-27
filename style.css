@@ -1,0 +1,120 @@
+div {
+     text-align:center;
+     color:orange;
+    }
+
+#dynamic {
+        width: 5em;
+        height: 4em;
+        padding: 1em;
+        border: 0.5em solid green;
+        margin: 2em;
+        }
+
+#hexmex{
+        color:#1adf27
+        }
+
+#Gbox{width:100px;
+      height:20px;
+      margin:5px;
+      border:5px dotted grey;
+    }
+
+.Gfonts{ font-family: "Architects Daughter",serif;
+         background-color: rgb(20%,50%,99%);
+         font-size: 30px;
+
+        }
+
+.prokon{ font-family: "Dancing Script";
+         font-size: 22px;
+         font-weight: 5px;
+         color: rgb(100,200,255);
+         background-color:#000099;
+
+}
+
+.medium{
+
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: 250;
+    font-size: medium;
+    line-height: normal;
+    font-family: Helvetica, serif;
+    background-color: rgb(48,35,77);
+}
+.tanta{
+    font-stretch: condensed;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: 400;
+    font-size: medium;
+    line-height: normal;
+    font-family: cursive, serif;
+    background-color: aqua;
+}
+
+.container{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Bborder{
+    border: 5px solid #7c5d2b
+}
+
+.boxRed{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+  }
+  .boxBlack{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+  }
+  .Ccontainer{
+    width:200px;
+    display:flex;
+    flex-wrap:wrap;
+    border:10px solid  black;
+
+  }
+  /* Add CSS rules here! */
+.Zcontainer{
+    width: 100%;
+    display:flex;
+    flex-wrap: wrap;
+  }
+
+  .BabyBox{
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    background-color: #B4EFF8;
+    font-weight: bold;
+    font-size: 4em;
+    text-align: center;
+    padding: 10px;
+    font-family: sans-serif;
+  }
+
+  .Zfont{
+    color: black;
+  }
+
+  .Bborder{
+    width: 300px;
+    height: 300px;
+    border: 1px solid white;
+    margin: 10px;
+    padding: 5px;
+
+  }
+  .Zinvs{
+    list-style-type:none;
+  }
+
